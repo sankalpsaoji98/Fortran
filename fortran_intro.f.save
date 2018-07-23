@@ -1,0 +1,14 @@
+
+::^X
+program addNumbers
+implicit none
+
+real :: a, b, add
+
+a = 15
+b = 12
+add = a + b
+
+print*,'The sum is', add
+
+end program addNumbers

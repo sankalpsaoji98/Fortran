@@ -1,0 +1,27 @@
+Adjacency Matrix (Undirected)
+0 0 1 0 0
+0 0 1 1 0
+1 1 0 0 1
+0 1 0 0 0
+0 0 1 0 0
+
+Adjacency Matrix (Directed)
+0   0   1   0   0
+0   0   1   1   0
+-1 -1   0   0   1
+0  -1   0   0   0
+0   0  -1   0   0
+
+Incidence Matrix (Undirected)
+1 0 0 0
+0 1 1 0
+1 0 1 1
+0 1 0 0 
+0 0 0 1
+
+Incidence Matrix (Directed)
+-1  0  0  0
+0  -1 -1  0
+1   0  1 -1
+0   1  0  0 
+0   0  0  1
